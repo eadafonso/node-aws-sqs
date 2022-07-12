@@ -1,0 +1,12 @@
+{
+  "name": "sqs-queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1173.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
